@@ -78,6 +78,9 @@ button:hover {
     justify-content: space-between;
 }
 
+
+/* <!-- --------------Left Part Section------------- --> */
+
 .card {
     width: 760px;
     height: 520px;
@@ -135,7 +138,7 @@ h1 {
 p,
 span,
 a {
-    font-size: 20px;
+    font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -173,6 +176,9 @@ a {
     position: relative;
     bottom: 90px;
 }
+
+
+/* <!-- --------------Right Part Section------------- --> */
 
 .education {
     margin-top: 5%;
@@ -224,7 +230,7 @@ a {
 .rightdown {
     margin-top: 8%;
     width: 400px;
-    height: 600px;
+    height: 540px;
     border: 5px solid #CBE4DE;
     position: relative;
 }
@@ -252,7 +258,7 @@ a {
 .con-circle {
     border-radius: 50%;
     width: 34px;
-    height: 34px;
+    height: 32px;
     padding: 10px;
     background-color: lightgray;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
